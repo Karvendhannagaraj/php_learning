@@ -41,3 +41,15 @@ This repository contains comprehensive documentation and resources on various PH
    - Laravel queue system, events, jobs, and broadcasting.
    - Custom middleware, request lifecycle, and service providers.
   
+
+# Google Documents
+
+## PHP
+- [PHP Basic Learning](https://docs.google.com/document/d/1OlEJiL6dxCAXPRRvsiMVQFoz9w9diKSs/edit?usp=sharing&ouid=109507789308270878548&rtpof=true&sd=true)
+- [PHP & MYSQL Advanced Concepts](https://docs.google.com/document/d/1wqR6taZMSik9XAHDNhE4oEsY9_0ftbcc/edit?usp=sharing&ouid=109507789308270878548&rtpof=true&sd=true)
+- [PHP OOPS Concept](https://docs.google.com/document/d/14YTNvFwt9-YVuZDLgt9f4OhQDW0_sMtRoaaYiK28haE/edit?usp=sharing)
+- [OPtimization , Performance and Security](https://docs.google.com/document/d/1t1wgFaMQ5DzNbinCdey1bQ71EFiV5zWEHlOmVVzn3ik/edit?usp=sharing)
+
+## Laravel
+- [Laravel Interview Question](https://docs.google.com/document/d/1XD6eL6gnZdHBLQDecakh0aZtxuTAC9BMhw-on7yut34/edit?usp=sharing)
+- [Laravel Advanced Concept](https://docs.google.com/document/d/1HOnwfMw7swsMsEh9JnTs3btNRCmlzFAlA48A6KkE6fw/edit?usp=sharing)
