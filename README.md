@@ -53,4 +53,4 @@ This repository contains comprehensive documentation and resources on various PH
 ## Laravel
 - [Laravel Interview Question](https://docs.google.com/document/d/1XD6eL6gnZdHBLQDecakh0aZtxuTAC9BMhw-on7yut34/edit?usp=sharing)
 - [Laravel Advanced Concept](https://docs.google.com/document/d/1HOnwfMw7swsMsEh9JnTs3btNRCmlzFAlA48A6KkE6fw/edit?usp=sharing)
-https://drive.google.com/file/d/1hTLKBnZTFxuj_o39GkMWl5cpAjKutcDP/view?usp=drivesdk
+https://drive.google.com/file/d/1hV8z6MOGT_mJ27NWXC4wLFFtX6cw0Ded/view?usp=drivesdk
