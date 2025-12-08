@@ -49,6 +49,7 @@ This repository contains comprehensive documentation and resources on various PH
 - [PHP & MYSQL Advanced Concepts](https://docs.google.com/document/d/1wqR6taZMSik9XAHDNhE4oEsY9_0ftbcc/edit?usp=sharing&ouid=109507789308270878548&rtpof=true&sd=true)
 - [PHP OOPS Concept](https://docs.google.com/document/d/14YTNvFwt9-YVuZDLgt9f4OhQDW0_sMtRoaaYiK28haE/edit?usp=sharing)
 - [OPtimization , Performance and Security](https://docs.google.com/document/d/1t1wgFaMQ5DzNbinCdey1bQ71EFiV5zWEHlOmVVzn3ik/edit?usp=sharing)
+- https://docs.google.com/document/d/1NCl9MIp0ihQfZ1oZEO2tZo6b4AQSsBRh/edit?usp=sharing&ouid=109507789308270878548&rtpof=true&sd=true
 
 ## Laravel
 - [Laravel Interview Question](https://docs.google.com/document/d/1XD6eL6gnZdHBLQDecakh0aZtxuTAC9BMhw-on7yut34/edit?usp=sharing)
