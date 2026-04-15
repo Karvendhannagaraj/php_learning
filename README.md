@@ -53,3 +53,158 @@ This repository contains comprehensive documentation and resources on various PH
 ## Laravel
 - [Laravel Interview Question](https://docs.google.com/document/d/1XD6eL6gnZdHBLQDecakh0aZtxuTAC9BMhw-on7yut34/edit?usp=sharing)
 - [Laravel Advanced Concept](https://docs.google.com/document/d/1HOnwfMw7swsMsEh9JnTs3btNRCmlzFAlA48A6KkE6fw/edit?usp=sharing)
+
+
+Got it 👍 — you need only the Skill Set section (clean, professional, CEO-ready).
+You can directly paste this into your document.
+
+
+---
+
+🛠️ Technical Skill Set
+
+🔹 Backend Development
+
+PHP (CodeIgniter 3, Laravel)
+
+Node.js (Express.js)
+
+.NET
+
+
+
+---
+
+🔹 Frontend Development
+
+HTML, CSS, JavaScript
+
+React.js
+
+Angular
+
+
+
+---
+
+🔹 Database Technologies
+
+MySQL
+
+Microsoft SQL Server
+
+PostgreSQL
+
+
+
+---
+
+🔹 API Development & Integration
+
+REST API design and development
+
+Third-party API integration
+
+Secure data communication
+
+
+
+---
+
+🔹 Server & Infrastructure
+
+Windows Server setup and management
+
+Linux server configuration
+
+Web servers:
+
+Apache
+
+Nginx
+
+
+
+
+---
+
+🔹 Monitoring & Performance
+
+Grafana
+
+Infrastructure monitoring
+
+Application performance monitoring
+
+Error tracking and alerting
+
+Historical data analysis
+
+
+
+
+---
+
+🔹 DevOps & Deployment
+
+Version Control: GitHub
+
+CI/CD: GitHub Actions
+
+Azure DevOps (Learning phase)
+
+Automated deployment pipelines
+
+
+
+---
+
+🔹 Code Quality & Standards
+
+SonarQube
+
+Code review (Pull Request process)
+
+Coding standards and best practices
+
+
+
+---
+
+🔹 Testing & Quality Assurance
+
+Manual Testing
+
+Regression Testing
+
+Performance Testing using JMeter
+
+
+
+---
+
+🔹 Performance Optimization
+
+Application performance tuning
+
+Database query optimization
+
+API response time improvement
+
+
+
+---
+
+🔹 Additional Capabilities
+
+Third-party service integration
+
+End-to-end application lifecycle management
+
+Scalable and maintainable system design
+
+
+
+---
+
+If you want, I can also give a 1-page short version (for PPT slide) 👍
