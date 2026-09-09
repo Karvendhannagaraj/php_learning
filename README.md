@@ -208,3 +208,37 @@ Scalable and maintainable system design
 ---
 
 If you want, I can also give a 1-page short version (for PPT slide) 👍
+
+Subject: FI Audit – Round Robin Logic Fix – Test Results for Review
+
+Hi Team,
+
+I would like to highlight the issue identified in the FI Audit functionality.
+
+Issue
+
+Currently, accounts are being picked for audit based on the recent activity date. Because of this, accounts with older activity dates are sometimes not getting picked up for audit.
+
+For example, if the recent activity dates are September 9, September 8, and September 7, the accounts with older activity dates may not be considered when the audit runs.
+
+Fix Implemented
+
+To address this issue, I have implemented a Round Robin approach.
+
+Accounts are considered for each representative based on their most recent activity date.
+
+The logic considers accounts with activity dates from the last 5 days.
+
+Accounts are then assigned in a Round Robin manner across representatives based on their respective most recent activity dates.
+
+This ensures that eligible accounts from different representatives are considered fairly during the audit process.
+
+
+Test Results
+
+I have tested the implemented logic in the FI Audit using multiple test accounts. The test scenarios and results are attached for your review.
+
+Please review the attached test results and confirm if the functionality looks good. Once we receive your approval, we can proceed with the further implementation in the live environment.
+
+Thanks,
+[Your Name]
